@@ -22,7 +22,7 @@
 			<key>ProxyPACFallbackAllowed</key>
 			<false/>
 			<key>ProxyPACURL</key>
-			<string> https://raw.githubusercontent.com/eCows/Hosts-AdBlock/master/proxy.pac/</string>
+			<string>https://raw.githubusercontent.com/eCows/Hosts-AdBlock/master/proxy.pac</string>
 			<key>ProxyType</key>
 			<string>Auto</string>
 		</dict>
